@@ -1,2 +1,3 @@
 # phunsuong.vn
-Cửa hàng <a href="https://phunsuong.vn">phun sương</a> Vạn Thắng cung cấp các sản phẩm về máy bơm phun sương đã khẳng định mình là nhà cung cấp hàng đầu về các thiết bị phun sương tại Việt Nam
+Cửa hàng <a href="https://phunsuong.vn">phun sương</a> Vạn Thắng cung cấp các sản phẩm về <a href="https://phunsuong.vn/bom-phun-suong">máy bơm phun sương</a> đã khẳng định mình là nhà cung cấp hàng đầu về các thiết bị phun sương tại Việt Nam
+Ngoài ra cửa hàng Phun Sương cung cấp <a href="https://phunsuong.vn/phu-kien-phun-suong">phụ kiện phun sương</a>, <a href="https://phunsuong.vn/may-tao-do-am">máy tạo độ ẩm</a>, <a href="https://phunsuong.vn/dau-noi-khi-nen">đầu nối khí nén</a>... ngoài ra chúng tôi còn settup sẵn các trọn bộ <a href-"https://phunsuong.vn/he-thong-phun-suong">hệ thống phun sương</a> phù hợp
